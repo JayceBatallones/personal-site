@@ -1,30 +1,37 @@
-/* Global styles */
+/****************************************************
+    Hands-on Exercise 2
+ ****************************************************/
+/* Body styles*/
+    /* TODO: body, main, footer, .container */
 
 
-/* Global styles end */
-
-/* Body styles */
-
-
-/* Navigation styles */
+/* Typography styles */ 
+    /* TODO: h2, p */
 
 
-/* Section styles */
+/* Navigation styles */ 
+    /* TODO: nav, nav ul, nav ul li, nav ul li a */
 
 
-/* Heading styles */
 
 
-/* Paragraph styles */
+
+/* About Section styles */
+    /* TODO: .about-container, .about-paragraph, .about-image */
 
 
-/* Image styles */
+
+/* Portfolio Section styles */
+    /* TODO: .portfolio-container */
 
 
-/* Button styles */
+
+/* Skills Section styles */
+    /* TODO: .skills-container, .skill, .skill-icon, .skill-icon img, .skill-name */
 
 
-/* Form styles */
 
-
-/* Footer styles */
+/* Contact Section styles */
+    /* TODO: .contact-container, .contact-container form, .contact-container input[type="text"],
+.contact-container input[type="email"],
+.contact-container textarea, .contact-form input, .contact-form textarea, .contact-container input */
